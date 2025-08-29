@@ -1,15 +1,15 @@
 # 👋 Olá! Eu sou Carlos Aguiar  
 
-**`Desenvolvedor Back-end | Kotlin e Spring Boot`**  
+**`Desenvolvedor Back-end | Java, Kotlin e Spring Boot`**  
 
-📚 **Cursando:** Análise e Desenvolvimento de Sistemas  🚀 **Foco:** Desenvolvimento Back-end com Kotlin
+📚 **Cursando:** Análise e Desenvolvimento de Sistemas  🚀 **Foco:** Desenvolvimento Back-end com Java e Kotlin
 
 🎯 **Objetivo:** Conseguir uma oportunidade como **estagiário ou júnior em Back-end** e participar de projetos práticos
 
 ---
 
 ### 📝 Sobre mim  
-Desenvolvedor Back-end, com foco em **Kotlin** e **Spring Boot**, estudando **criação de APIs REST, integração com bancos de dados e boas práticas de desenvolvimento**.  
+Desenvolvedor Back-end, com foco em **Java, Kotlin** e **Spring Boot**, estudando **criação de APIs REST, integração com bancos de dados e boas práticas de desenvolvimento**.  
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas na UNISUAM, presencial**. Estou disponível para **oportunidades de estágio ou posições júnior** nas modalidades **presencial, híbrida ou home office**.  
 
@@ -18,6 +18,7 @@ Sou **graduado em Defesa Cibernética** e possuo experiência como **Analista de
 ---
 
 ### ⚙️ Tecnologias e Ferramentas  
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
