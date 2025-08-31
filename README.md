@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Carlos Aguiar  
 
-**`Desenvolvedor Back-end | Java, Kotlin e Spring Boot`**  
+**`Desenvolvedor Back-end | Java e Kotlin`**  
 
 📚 **Cursando:** Análise e Desenvolvimento de Sistemas  🚀 **Foco:** Desenvolvimento Back-end com Java e Kotlin
 
